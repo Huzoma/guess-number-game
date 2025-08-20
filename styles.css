@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+=======
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
+>>>>>>> a0e381a (deleted guess my number folder)
 
 * {
   margin: 0;
@@ -12,14 +16,22 @@ html {
 }
 
 body {
+<<<<<<< HEAD
   font-family: 'Press Start 2P', sans-serif;
+=======
+  font-family: "Press Start 2P", sans-serif;
+>>>>>>> a0e381a (deleted guess my number folder)
   color: #eee;
   background-color: #222;
   /* background-color: #60b347; */
 }
 
 /* LAYOUT */
+<<<<<<< HEAD
 .victory{
+=======
+.victory {
+>>>>>>> a0e381a (deleted guess my number folder)
   background-color: #00db00;
 }
 header {

@@ -45,5 +45,8 @@ checkBtn.addEventListener('click', function(){
         alert('Input a number between 1 and 20 in the box')
     }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a0e381a (deleted guess my number folder)
 })
